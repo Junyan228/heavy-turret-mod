@@ -1,8 +1,8 @@
 {
-  ​"name"​:"H​eavyTurretsMod"​,
-  "displayName":"htm",
-  "description":"費用重めで大きめだけど、その分強いタレットを追加するmodです。",
-  "minGameVersion":126.2,
-  "version":"0.0",
-  "author":"mindustry_MODの自分含むメンバー一同"
+"name" : "HeavyTurretsMod",
+"displayName" : "htm" ,
+"description" : "費用重めで大きめだけど、その分強いタレットを追加するmodです。",
+"minGameVersion" : 126.2,
+"version" : "0.0" ,
+"author" : "mindustry_MODの自分含むメンバ"
 }
