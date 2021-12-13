@@ -1,11 +1,11 @@
 {
   "type":"ItemTurret",
   "requirements":[
-    "copper"/140,
-    "titanium"/200,
-    "silicone"/250,
-    "plastanium"/300,
-    "surge-alloy"/120
+    "copper":140,
+    "titanium":200,
+    "silicone":250,
+    "plastanium":300,
+    "surge-alloy":120
   ]
   "targetAir":true,
   "targetGround":true,
