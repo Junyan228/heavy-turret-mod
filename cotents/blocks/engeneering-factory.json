@@ -1,0 +1,31 @@
+{
+  "type":"genericCrafter",
+  "crafttime":100,
+  "size":2
+  "drawer":{
+    "type":"drawAnimation"
+  },
+  "hasPower":true,
+  "hasLiquids":false,
+  "consumes":{
+    "items":[
+      "copper":2,
+      "lead":2,
+      "silicon":3,
+      "titanium":1
+      ]
+    },
+    "power":5
+  },
+  "requirements":[
+    "copper":500,
+    "lead":300,
+    "titanium":200,
+    "silicon":100,
+  ],
+  "category":"crafting",
+  "outputItem":[
+    "proccesor":1
+  ],
+  "research":"silicon-smelter"
+}
