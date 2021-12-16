@@ -1,0 +1,32 @@
+{
+ "type":"genericCrafter",
+ "craftTime":60,
+ "size":3,
+ "drawer":{
+   "type":"drawAnimation"
+ },
+ "hasPowe":true,
+ "hasLiquid":true,
+ "consumes":{
+   "items":[
+     "surge-alloy":5
+     ]
+    },
+    "liquid"/{
+      "liquid":"cryofluid",
+      "amount":0.6
+    },
+    "power":11
+  },
+  "craftEffect":"smokeCloud",
+  "requirements"[
+    "copper":1200,
+    "lead":1500,
+    "titanium":500,
+    "silicon":500,
+    "plastanium":50
+  ],
+  "category":"crafting",
+  "outputItem":"electric-needle",
+  "research":"alloy-smelter"
+}

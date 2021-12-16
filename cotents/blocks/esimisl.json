@@ -1,12 +1,12 @@
 {
   "type":"ItemTurret",
   "requirements":[
-    "copper":140,
-    "titanium":200,
-    "silicone":250,
-    "plastanium":300,
-    "surge-alloy":120
-  ],
+    "copper"/140,
+    "titanium"/200,
+    "silicone"/250,
+    "plastanium"/300,
+    "surge-alloy"/120
+  ]
   "targetAir":true,
   "targetGround":true,
   "health":6000,
@@ -22,7 +22,7 @@
     "amount":1,
     "booster":true
     }
-  },
+  }
   "ammoTypes":{
     "plastanium":{
       "speed":4,
@@ -34,7 +34,7 @@
       "ammoMultiplier":1,
       "frontColor":"000000",
       "backColor":"00ff00"
-    },
+    }
     "missile":{
       "speed":6,
       "damage":130,
