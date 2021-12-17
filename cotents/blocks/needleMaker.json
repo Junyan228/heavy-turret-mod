@@ -12,7 +12,7 @@
      "surge-alloy":5
      ]
     },
-    "liquid"/{
+    "liquid":{
       "liquid":"cryofluid",
       "amount":0.6
     },
