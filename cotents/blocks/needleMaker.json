@@ -19,7 +19,7 @@
     "power":11
   },
   "craftEffect":"smokeCloud",
-  "requirements"[
+  "requirements":[
     "copper":1200,
     "lead":1500,
     "titanium":500,
