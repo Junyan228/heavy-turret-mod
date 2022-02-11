@@ -5,6 +5,7 @@
     "titanium":200,
     "silicone":250,
     "plastanium":300,
+    "thorium":500,
     "surge-alloy":120
   ],
   "targetAir":true,
