@@ -24,6 +24,7 @@
     "lead":1500,
     "titanium":500,
     "silicon":500,
+    "thorium":100,
     "plastanium":50
   ],
   "category":"crafting",
