@@ -1,0 +1,29 @@
+{
+  "type":"genericCrafter",
+  "craftTime":80,
+  "size":2,
+  "drawer":{
+    "type":"drawanimation"
+  },
+  "hasPower":true,
+  "hasLiquids":false,
+  "consumes":{
+    "items":{
+      "items":[
+        "coal":3,
+        "pyratyte":2,
+        "blast-compound":2,
+        "plastanium":1
+      ]
+    }
+    "power":4
+  },
+  "requirements":[
+    "copper":100,
+    "lead":150,
+    "silicon":200,
+    ],
+  "category":"crafting",
+  "outputItem":"missile",
+  "research":"blast-mixer"
+}
